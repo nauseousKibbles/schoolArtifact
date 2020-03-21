@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+/* TOP BAR ------------------------------------------------------------------------------------------ */
+.topBar h1 {
+    color: orangered;
+    font-family: 'Lato', sans-serif;
+}
+
+.topBar {
+    text-align: center;
+}
+
+/* CONTENT SPACE------------------------------------------------------------------------------------- */
+
+.content {
+    text-align: center;
+    border-right: black 2px solid;
+    border-top: black 2px solid;
+    border-left: black 2px solid;
+    padding: 5px;
+}
+
+.content .contentItem {
+    padding: 3%;
+    border-bottom: black 2px dashed;
+}
+
