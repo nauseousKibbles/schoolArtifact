@@ -33,7 +33,7 @@
 }
 
 .content .contentItem h1 {
-    border-bottom: darkslategray 2px solid;
+    /* border-bottom: darkslategray 2px solid; */
     font-size: 40px;
     
 }
