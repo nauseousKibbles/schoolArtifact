@@ -10,6 +10,7 @@
     padding: 5px;
     border: lightgray solid 2px;
     border-radius: 5px;
+    font-size: 50px;
 }
 
 .topBar {
@@ -29,6 +30,33 @@
     
     padding: 3%;
     border-top: dashed black 2px;
+}
+
+.content .contentItem h1 {
+    border-bottom: darkslategray 2px solid;
+    font-size: 40px;
+    
+}
+
+.content .contentItem h2 {
+    font-size: 35px;
+}
+
+.content .contentItem p {
+    font-size: 25px;
+    
+}
+
+.sources {
+    padding: 9px;
+}
+
+.sources a{
+    text-decoration: none;
+    background: lightskyblue;
+    padding: 2px;
+    border: solid lightskyblue 2px;
+    border-radius: 5px;
 }
 
 /* THE BACKGROUND --------------------------------------------------------------------------------------- */
