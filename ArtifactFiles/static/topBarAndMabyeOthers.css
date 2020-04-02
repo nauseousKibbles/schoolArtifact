@@ -15,7 +15,21 @@
 
 .topBar {
     text-align: center;
+    background:rgb(150, 150, 150);
+    border: rgb(150, 150, 150) solid 2px;
+    border-radius: 5px;
+    padding: 5px;
 }
+
+.topBar a {
+    text-decoration: none;
+    border: solid 2px darkslategray;
+    background: lightgray;
+    border-radius: 3px;
+    font-size: 25px;
+    padding: 3px;
+}
+
 
 /* CONTENT SPACE------------------------------------------------------------------------------------- */
 
