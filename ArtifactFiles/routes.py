@@ -21,3 +21,8 @@ def what_they_do():
 @app.route("/languages")
 def languages():
     return render_template("languages.html")
+
+
+@app.route("/about")
+def about():
+    return render_template("about.html")
